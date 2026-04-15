@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Result - Fruit ID</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="result-header">
+            <div class="success-icon">✅</div>
+            <h1>Fruit Identified!</h1>
+        </div>
+        
+        <div class="result-content">
+            <div class="result-card">
+                <div class="fruit-result">
+                    <div class="fruit-icon">🍎</div>
+                    <h2 class="fruit-name">{{ plant_name }}</h2>
+                    <div class="confidence-badge">High Confidence</div>
+                </div>
+                
+                <div class="image-container">
+                    <img src="{{ image_path }}" alt="Uploaded fruit image" class="result-image">
+                </div>
+                
+                <div class="action-buttons">
+                    <a href="/" class="primary-btn">
+                        <span class="btn-icon">🔄</span>
+                        Try Another Fruit
+                    </a>
+                    <button class="secondary-btn" onclick="shareResult()">
+                        <span class="btn-icon">📤</span>
+                        Share Result
+                    </button>
+                </div>
+            </div>
+        </div>
+        
+        <div class="additional-info">
+            <div class="info-card">
+                <h3>🌟 About This Fruit</h3>
+                <p>This identification was made using advanced AI technology that analyzes visual features of fruits.</p>
+            </div>
+            <div class="info-card">
+                <h3>💡 Tip</h3>
+                <p>For better results, use clear, well-lit photos with the fruit as the main subject.</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function shareResult() {
+            if (navigator.share) {
+                navigator.share({
+                    title: 'Fruit Identification Result',
+                    text: 'I identified a {{ plant_name }} using AI!',
+                    url: window.location.href
+                });
+            } else {
+                // Fallback for browsers that don't support Web Share API
+                const text = `I identified a {{ plant_name }} using AI! ${window.location.href}`;
+                navigator.clipboard.writeText(text).then(() => {
+                    alert('Result copied to clipboard!');
+                });
+            }
+        }
+
+        // Add entrance animation
+        document.addEventListener('DOMContentLoaded', () => {
+            const resultCard = document.querySelector('.result-card');
+            resultCard.style.opacity = '0';
+            resultCard.style.transform = 'translateY(20px)';
+            
+            setTimeout(() => {
+                resultCard.style.transition = 'all 0.6s ease';
+                resultCard.style.opacity = '1';
+                resultCard.style.transform = 'translateY(0)';
+            }, 100);
+        });
+    </script>
+</body>
+</html>

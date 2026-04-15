@@ -1,0 +1,455 @@
+{
+  "antelope": {
+    "Origin": "Africa and parts of Asia",
+    "Climatic Conditions": "Savannas, grasslands, semi-arid to arid regions; temperate in some Asian species",
+    "Use": "Wild ungulate — important for ecosystem herbivory; game species; cultural/significance; some species used in ecotourism"
+  },
+  "badger": {
+    "Origin": "Northern Hemisphere (Europe, Asia, North America)",
+    "Climatic Conditions": "Woodlands, grasslands, shrublands; temperate regions; adaptable to varied climates",
+    "Use": "Wild mammal — insectivore/omnivore; ecosystem role as predator and soil aerator (digging); cultural roles"
+  },
+  "bat": {
+    "Origin": "Worldwide (except extreme polar regions and some isolated islands)",
+    "Climatic Conditions": "Forests, caves, urban areas — tropical to temperate climates",
+    "Use": "Pollinators and seed dispersers (many species); insect control (insectivorous bats); ecological importance; research and disease reservoir studies"
+  },
+  "bear": {
+    "Origin": "North America, South America, Europe, and Asia",
+    "Climatic Conditions": "Forests, mountains, tundra; species adapted to temperate, boreal, subarctic, and tropical climates",
+    "Use": "Wild apex/mesopredator — ecosystem role in trophic dynamics; cultural, tourism, and limited subsistence hunting in some regions"
+  },
+  "bee": {
+    "Origin": "Worldwide (except Antarctica)",
+    "Climatic Conditions": "Meadows, forests, agricultural areas; most abundant in temperate and tropical climates",
+    "Use": "Pollination (critical for crops and wild plants); honey and other hive products (Apis species); ecological keystone species"
+  },
+  "beetle": {
+    "Origin": "Worldwide",
+    "Climatic Conditions": "All terrestrial habitats from tropical to temperate and arid zones; aquatic for some groups",
+    "Use": "Ecosystem roles vary — decomposers, pollinators, predators, pests; some species used in research or as food in certain cultures"
+  },
+  "bison": {
+    "Origin": "North America (American bison) and Europe (European bison)",
+    "Climatic Conditions": "Grasslands, prairies, temperate continental climates; tolerant of cold winters",
+    "Use": "Grazing megafauna — ecosystem engineers; conservation and ecotourism; some managed for meat"
+  },
+  "boar": {
+    "Origin": "Eurasia (Wild boar) — introduced elsewhere",
+    "Climatic Conditions": "Forests, wetlands, grasslands; adaptable from temperate to tropical climates",
+    "Use": "Wild omnivore — hunting species; ancestor of domestic pig; can be agricultural pest where introduced"
+  },
+  "butterfly": {
+    "Origin": "Worldwide (except extreme polar regions)",
+    "Climatic Conditions": "Meadows, forests, grasslands; most diverse in tropical climates but common in temperate zones",
+    "Use": "Pollinators and indicators of ecosystem health; cultural and educational value; some species used in butterfly farming/ecotourism"
+  },
+  "cat": {
+    "Origin": "Domesticated cat (Felis catus) originated from Near Eastern wildcat in the Near East; wild felids worldwide",
+    "Climatic Conditions": "Domesticated — global; wild species adapted to varied habitats from forests to deserts",
+    "Use": "Companion/pet species; pest control (rodents); cultural and research roles; some wild cats are hunted or conservation concerns"
+  },
+  "caterpillar": {
+    "Origin": "Worldwide (larval stage of butterflies and moths)",
+    "Climatic Conditions": "Herbaceous habitats, forests, gardens; present wherever host plants grow (tropical to temperate)",
+    "Use": "Larval herbivores — important in food webs as prey for birds and insects; some are agricultural pests; silk production (silkworm)"
+  },
+  "chimpanzee": {
+    "Origin": "Tropical forests and savanna woodlands of West and Central Africa",
+    "Climatic Conditions": "Tropical climates — humid forests and mosaic woodlands",
+    "Use": "Wild primate — critical for ecological studies, conservation flagship species; used in non-invasive research and ecotourism (with strict ethics)"
+  },
+  "cockroach": {
+    "Origin": "Worldwide (originally tropical; now cosmopolitan)",
+    "Climatic Conditions": "Tropical to temperate; many species thrive in human-modified environments",
+    "Use": "Decomposers in ecosystems; several species are pests in human dwellings and food storage; used in research (neurobiology, resilience studies)"
+  },
+  "cow": {
+    "Origin": "Domesticated from wild aurochs (Bos primigenius) in Eurasia",
+    "Climatic Conditions": "Domesticated — global (adapted breeds for tropical, temperate, arid climates)",
+    "Use": "Livestock — milk, meat, leather, draft; cultural and agricultural roles"
+  },
+  "coyote": {
+    "Origin": "North America",
+    "Climatic Conditions": "Grasslands, deserts, forests, urban areas; adaptable to temperate and arid climates",
+    "Use": "Wild predator/scavenger — controls rodent populations; sometimes conflicts with livestock/pets; ecological role in trophic webs"
+  },
+  "crab": {
+    "Origin": "Worldwide (marine and some freshwater/terrestrial lineages)",
+    "Climatic Conditions": "Marine coastal zones, estuaries, intertidal; some in freshwater and terrestrial tropical/subtropical zones",
+    "Use": "Ecosystem scavengers/predators; important fisheries (food); cultural and economic value in coastal communities"
+  },
+  "crow": {
+    "Origin": "Worldwide (Corvids widespread across continents)",
+    "Climatic Conditions": "Forests, open woodlands, urban and agricultural areas; many temperate and tropical species",
+    "Use": "Omnivorous scavenger/predator — seed dispersal, pest control; cultural symbolism; adaptable urban wildlife"
+  },
+  "deer": {
+    "Origin": "Worldwide in various species (Eurasia, North America, South America; absent in Australia/Africa except introduced)",
+    "Climatic Conditions": "Forests, grasslands, mountains; species adapted from temperate to tropical climates",
+    "Use": "Game species; herbivores key to plant community dynamics; some domesticated/managed for venison and hides"
+  },
+  "dog": {
+    "Origin": "Domesticated from wolves in Eurasia",
+    "Climatic Conditions": "Domesticated — global (breeds adapted to varied climates)",
+    "Use": "Companion/pet; working roles (herding, guarding, assistance, detection); cultural and research roles"
+  },
+  "dolphin": {
+    "Origin": "Worldwide in marine and some freshwater regions (rivers)",
+    "Climatic Conditions": "Coastal and open ocean; tropical to temperate waters (some species in colder seas)",
+    "Use": "Wild marine mammals — ecological role as predators; cultural, ecotourism, and research importance; some kept in captivity (controversial)"
+  },
+
+  "donkey": {
+    "Origin": "Domesticated from African wild ass (Northeast Africa)",
+    "Climatic Conditions": "Hot, arid, and semi-arid regions; highly drought-tolerant",
+    "Use": "Domesticated — used for transport, draught work, and farming; valued for hardiness and low maintenance; important in arid agriculture and rural livelihoods"
+  },
+  "dragonfly": {
+    "Origin": "Worldwide (except extreme polar regions)",
+    "Climatic Conditions": "Freshwater habitats, wetlands, ponds, rivers; tropical to temperate climates",
+    "Use": "Predatory insect — controls mosquito and small insect populations; ecological indicators of freshwater health; cultural symbolism and photography subjects"
+  },
+  "duck": {
+    "Origin": "Domesticated from wild mallards and other species; wild species worldwide",
+    "Climatic Conditions": "Wetlands, rivers, lakes; temperate to tropical regions",
+    "Use": "Domesticated — meat, eggs, feathers; wild — important for ecosystems and migratory biodiversity; hunting and aquaculture value"
+  },
+  "eagle": {
+    "Origin": "Worldwide (except Antarctica)",
+    "Climatic Conditions": "Mountains, forests, open plains; tropical to subarctic regions",
+    "Use": "Apex avian predator — controls prey populations; national symbols and cultural significance; ecotourism and conservation focus"
+  },
+  "elephant": {
+    "Origin": "Africa (African elephant) and Asia (Asian elephant)",
+    "Climatic Conditions": "Tropical forests, grasslands, and savannas; seasonal monsoon and semi-arid zones",
+    "Use": "Wild megafauna — keystone species for ecosystems; domesticated uses in forestry, tourism, and culture (Asia); major conservation concern"
+  },
+  "flamingo": {
+    "Origin": "Africa, the Americas, Southern Europe, and South Asia",
+    "Climatic Conditions": "Tropical and subtropical saline or alkaline lakes and lagoons",
+    "Use": "Wild bird — filter-feeder important to wetland ecology; major attraction in birdwatching and conservation areas"
+  },
+  "fly": {
+    "Origin": "Worldwide (extremely diverse group, over 100,000 species)",
+    "Climatic Conditions": "Almost all habitats except deep oceans and poles",
+    "Use": "Decomposers and pollinators; some species are pests or disease vectors (housefly, tsetse); research in genetics and physiology (Drosophila)"
+  },
+  "fox": {
+    "Origin": "Northern Hemisphere, some species in Africa and Asia; introduced elsewhere",
+    "Climatic Conditions": "Forests, deserts, tundra, and urban areas; adaptable to temperate and cold regions",
+    "Use": "Wild omnivore — controls rodent populations; cultural symbolism; fur trade (controversial); studied in behavior and adaptation research"
+  },
+  "goat": {
+    "Origin": "Domesticated from wild bezoar ibex in the Fertile Crescent (Western Asia)",
+    "Climatic Conditions": "Adaptable — thrives in arid, hilly, and mountainous regions",
+    "Use": "Livestock — milk, meat, fiber (cashmere, mohair), manure; important for smallholder farming; hardy and low feed requirements"
+  },
+  "goldfish": {
+    "Origin": "Domesticated from wild carp (China)",
+    "Climatic Conditions": "Freshwater — temperate to subtropical regions; thrives in ponds and aquaria",
+    "Use": "Aquarium and ornamental fish; research in genetics and biology; cultural symbol of luck and prosperity"
+  },
+  "goose": {
+    "Origin": "Domesticated from wild greylag and swan geese; wild species across Europe, Asia, North America",
+    "Climatic Conditions": "Wetlands, lakes, meadows; migratory species — temperate to arctic climates",
+    "Use": "Domesticated — meat, eggs, feathers; wild — migratory birds important to ecosystems and conservation; cultural and ornamental uses"
+  },
+  "gorilla": {
+    "Origin": "Central and Western Africa",
+    "Climatic Conditions": "Tropical forests, montane regions; humid equatorial climate",
+    "Use": "Wild primate — herbivore, seed disperser; flagship conservation species; ecotourism; research in genetics and behavior"
+  },
+  "grasshopper": {
+    "Origin": "Worldwide (except polar regions)",
+    "Climatic Conditions": "Grasslands, meadows, agricultural fields; tropical and temperate zones",
+    "Use": "Herbivore and prey species; ecosystem nutrient cycling; some species agricultural pests; cultural food source in parts of Africa and Asia"
+  },
+  "hamster": {
+    "Origin": "Eurasia (notably Syria and parts of Eastern Europe)",
+    "Climatic Conditions": "Dry steppes, semi-deserts; adapted to temperate climates",
+    "Use": "Domesticated — pets and laboratory animals; ecological seed hoarders; study model for biology and behavior research"
+  },
+  "hare": {
+    "Origin": "Europe, Asia, Africa, and North America",
+    "Climatic Conditions": "Grasslands, tundra, deserts; temperate to arid regions",
+    "Use": "Wild herbivore — prey for predators; hunted for meat and fur; research in evolution and adaptation"
+  },
+  "hedgehog": {
+    "Origin": "Europe, Africa, and Asia",
+    "Climatic Conditions": "Forests, grasslands, and suburban gardens; temperate to warm climates",
+    "Use": "Wild insectivore — pest control in gardens; pets in some regions; ecological and educational value"
+  },
+  "hippopotamus": {
+    "Origin": "Sub-Saharan Africa",
+    "Climatic Conditions": "Rivers, lakes, and wetlands in tropical climates",
+    "Use": "Wild megaherbivore — key ecosystem engineer; tourism and conservation interest; hunted historically for meat and ivory (teeth)"
+  },
+  "hornbill": {
+    "Origin": "Tropical and subtropical Africa and Asia",
+    "Climatic Conditions": "Forests, woodlands, and savannas; warm, humid regions",
+    "Use": "Seed dispersers and ecological indicators; cultural significance in tribal art and folklore; ecotourism importance"
+  },
+  "horse": {
+    "Origin": "Domesticated from wild horses (Central Asia/Steppe regions)",
+    "Climatic Conditions": "Domesticated — adaptable from deserts to cold steppes; wild ancestors lived in temperate grasslands",
+    "Use": "Transport, sports, agriculture, military, therapy, and recreation; cultural and historical significance; ecological grazing role in some reserves"
+  },
+  "hummingbird": {
+    "Origin": "Native to the Americas (North, Central, and South)",
+    "Climatic Conditions": "Tropical to temperate forests and highlands; often near flowering plants",
+    "Use": "Pollinators; critical for tropical ecosystems; ecotourism and birdwatching interest; studied for flight and physiology research"
+  },
+  "hyena": {
+    "Origin": "Africa and parts of the Middle East and India",
+    "Climatic Conditions": "Savannas, grasslands, and arid scrublands; semi-arid to tropical climates",
+    "Use": "Wild carnivore/scavenger — key role in carcass decomposition; cultural symbolism; studied for social behavior and ecology"
+  },
+  "jellyfish": {
+    "Origin": "Oceans worldwide, from surface waters to deep seas",
+    "Climatic Conditions": "Marine environments — tropical, temperate, and polar waters",
+    "Use": "Part of marine food webs as prey and predator; ecological indicator of ocean health; used in biomedical research and cuisine in some regions"
+  },
+  "kangaroo": {
+    "Origin": "Australia",
+    "Climatic Conditions": "Grasslands, savannas, forests, and semi-arid regions; temperate to tropical zones",
+    "Use": "Wild marsupial — iconic species; important in ecology and grazing balance; meat and leather industries; cultural significance"
+  },
+  "koala": {
+    "Origin": "Eastern and southeastern Australia",
+    "Climatic Conditions": "Eucalyptus forests; temperate to subtropical climates",
+    "Use": "Wild marsupial — herbivore (feeds on eucalyptus leaves); ecotourism symbol; conservation concern due to habitat loss and disease"
+  },
+  "ladybugs": {
+    "Origin": "Worldwide (most diverse in temperate regions)",
+    "Climatic Conditions": "Gardens, grasslands, forests; temperate to tropical climates",
+    "Use": "Beneficial insect — natural pest control (aphids); cultural symbol of luck; used in agriculture and biological pest management"
+  },
+  "leopard": {
+    "Origin": "Africa and Asia",
+    "Climatic Conditions": "Forests, grasslands, mountains, and semi-arid regions; highly adaptable",
+    "Use": "Apex predator — maintains ecological balance; cultural and conservation symbol; sometimes involved in human–wildlife conflict"
+  },
+  "lion": {
+    "Origin": "Africa and small population in India (Asiatic lion)",
+    "Climatic Conditions": "Grasslands, savannas, open woodlands; warm and dry climates",
+    "Use": "Apex predator; cultural and national symbol; tourism and conservation focus; ecological role in controlling herbivore populations"
+  },
+  "lizard": {
+    "Origin": "Worldwide (except polar regions)",
+    "Climatic Conditions": "Deserts, forests, grasslands; tropical to arid zones",
+    "Use": "Ecosystem insect control; research in regeneration and physiology; kept as pets; cultural symbolism in some regions"
+  },
+  "lobster": {
+    "Origin": "Marine environments worldwide (especially Atlantic and Indo-Pacific)",
+    "Climatic Conditions": "Cold to tropical coastal waters, rocky and sandy seabeds",
+    "Use": "Economically important seafood; ecological role as benthic predator/scavenger; indicator of marine ecosystem health"
+  },
+  "mosquito": {
+    "Origin": "Worldwide (except Antarctica)",
+    "Climatic Conditions": "Tropical, subtropical, and temperate wetlands and stagnant waters",
+    "Use": "Pollinators and food source in ecosystems; some species are disease vectors (malaria, dengue, Zika); research in disease control"
+  },
+  "moth": {
+    "Origin": "Worldwide",
+    "Climatic Conditions": "Forests, grasslands, agricultural areas; temperate to tropical",
+    "Use": "Pollinators and prey species; some are agricultural pests; silk production (silkworm moth); important in ecological studies"
+  },
+  "mouse": {
+    "Origin": "Native to Asia and Africa; now cosmopolitan",
+    "Climatic Conditions": "Adaptable — found in forests, grasslands, urban and agricultural areas; temperate to tropical",
+    "Use": "Model organism in scientific research; agricultural pest; pet species; important prey in food chains"
+  },
+  "octopus": {
+    "Origin": "Oceans worldwide",
+    "Climatic Conditions": "Marine — coral reefs, coastal shallows, deep seas; tropical to temperate waters",
+    "Use": "Predatory marine mollusk; research in intelligence and neurology; seafood; key species in marine ecosystems"
+  },
+  "okapi": {
+    "Origin": "Democratic Republic of the Congo, Central Africa",
+    "Climatic Conditions": "Dense tropical rainforests",
+    "Use": "Wild herbivore — related to giraffe; indicator of rainforest health; flagship species for conservation"
+  },
+  "orangutan": {
+    "Origin": "Borneo and Sumatra (Southeast Asia)",
+    "Climatic Conditions": "Tropical rainforests",
+    "Use": "Wild great ape — seed disperser, critical for forest ecology; ecotourism and conservation symbol; research in primate behavior and evolution"
+  },
+  "otter": {
+    "Origin": "Worldwide (except Australia and polar regions)",
+    "Climatic Conditions": "Freshwater rivers, lakes, and coastal marine habitats; temperate to tropical",
+    "Use": "Predator in aquatic ecosystems; ecotourism; conservation importance; indicator of clean waterways"
+  },
+  "owl": {
+    "Origin": "Worldwide",
+    "Climatic Conditions": "Forests, grasslands, deserts, and urban areas; temperate to tropical",
+    "Use": "Nocturnal predator — rodent control; cultural symbolism; research in vision and hearing; important in ecological pest control"
+  },
+  "ox": {
+    "Origin": "Domesticated from wild cattle (Eurasia)",
+    "Climatic Conditions": "Domesticated — adapted to tropical, temperate, and arid regions",
+    "Use": "Draft animal for plowing, transport, and farming; cultural and agricultural value; manure and leather production"
+  },
+  "oyster": {
+    "Origin": "Marine coasts worldwide",
+    "Climatic Conditions": "Coastal estuaries, reefs, and intertidal zones; tropical to temperate",
+    "Use": "Seafood and pearl production; water filtration and reef formation; important for aquaculture and marine ecosystem balance"
+  },
+  "panda": {
+    "Origin": "Mountainous forests of central China",
+    "Climatic Conditions": "Temperate forests with bamboo; cool and humid climates",
+    "Use": "Wild herbivore — bamboo specialist; global conservation symbol; ecotourism and cultural importance"
+  },
+  "parrot": {
+    "Origin": "Tropical and subtropical regions (South America, Africa, Australia, Asia)",
+    "Climatic Conditions": "Rainforests, savannas, and dry woodlands; tropical and subtropical climates",
+    "Use": "Seed dispersers; popular pets (high intelligence); ecotourism species; some endangered due to trade and habitat loss"
+  },
+  "pelecaniformes": {
+    "Origin": "Worldwide (coastal and freshwater regions)",
+    "Climatic Conditions": "Wetlands, coastal lagoons, and rivers; tropical to temperate climates",
+    "Use": "Aquatic bird group (pelicans, herons, ibises) — ecological fish predators; indicators of wetland health; tourism and conservation importance"
+  },
+  "penguin": {
+    "Origin": "Southern Hemisphere (mainly Antarctica, sub-Antarctic islands, South America, Africa, Australia, and New Zealand)",
+    "Climatic Conditions": "Cold and temperate coastal regions; adapted to marine and icy habitats",
+    "Use": "Wild seabird — marine food web predator; ecotourism attraction; indicator of ocean health and climate change"
+  },
+  "pig": {
+    "Origin": "Domesticated from wild boar (Eurasia)",
+    "Climatic Conditions": "Domesticated — adaptable to tropical, temperate, and cold climates",
+    "Use": "Livestock — meat (pork), leather, and byproducts; medical research (organ and physiology studies); cultural and agricultural significance"
+  },
+  "pigeon": {
+    "Origin": "Domesticated from rock dove (Europe, North Africa, South Asia)",
+    "Climatic Conditions": "Urban, agricultural, and rocky habitats; adaptable from temperate to tropical regions",
+    "Use": "Communication (homing pigeons), pets, research models, religious and cultural roles; urban scavengers with ecological functions"
+  },
+  "porcupine": {
+    "Origin": "Africa, Asia, Europe, and the Americas",
+    "Climatic Conditions": "Forests, grasslands, deserts; temperate to tropical regions",
+    "Use": "Wild herbivore; defense adaptations studied scientifically; hunted for meat and quills; role in forest ecosystems"
+  },
+  "possum": {
+    "Origin": "Australia, New Guinea, and nearby islands (different from opossum of the Americas)",
+    "Climatic Conditions": "Forests and woodlands; temperate to tropical climates",
+    "Use": "Wild arboreal marsupial — seed disperser; pest control in some regions; important in ecological balance and cultural folklore"
+  },
+  "raccoon": {
+    "Origin": "North and Central America",
+    "Climatic Conditions": "Forests, wetlands, and urban areas; temperate to subtropical climates",
+    "Use": "Omnivorous scavenger — pest and seed disperser; studied for intelligence and adaptability; cultural symbolism in North America"
+  },
+  "rat": {
+    "Origin": "Asia (now global)",
+    "Climatic Conditions": "Highly adaptable — urban, rural, and natural environments worldwide",
+    "Use": "Model organism in biomedical research; pest species; important prey; contributes to ecological decomposition"
+  },
+  "reindeer": {
+    "Origin": "Arctic and subarctic regions (North America, Europe, Asia)",
+    "Climatic Conditions": "Cold tundra and boreal forests; adapted to freezing temperatures",
+    "Use": "Domesticated and wild — transport and herding by Arctic peoples; meat, hides, and antlers; cultural and ecological importance"
+  },
+  "rhinoceros": {
+    "Origin": "Africa and South/Southeast Asia",
+    "Climatic Conditions": "Tropical and subtropical savannas, grasslands, and forests",
+    "Use": "Wild megaherbivore — ecosystem engineer; conservation and ecotourism focus; poached for horn (illegal trade issue)"
+  },
+  "sandpiper": {
+    "Origin": "Worldwide (migratory shorebirds)",
+    "Climatic Conditions": "Wetlands, coastal shores, and tundra breeding grounds; temperate to Arctic regions",
+    "Use": "Wading birds — key in wetland ecosystems; migration studies; birdwatching and conservation importance"
+  },
+  "seahorse": {
+    "Origin": "Tropical and temperate coastal waters worldwide",
+    "Climatic Conditions": "Shallow seagrass beds, coral reefs, and estuaries",
+    "Use": "Marine fish — ecological indicator; ornamental trade and traditional medicine; conservation priority due to habitat loss"
+  },
+  "seal": {
+    "Origin": "Cold and temperate marine regions worldwide",
+    "Climatic Conditions": "Polar, subpolar, and temperate coasts; marine environments with ice or rocky shores",
+    "Use": "Marine mammal — part of ocean food webs; ecotourism; research species; previously hunted for oil and fur"
+  },
+  "shark": {
+    "Origin": "Marine environments worldwide",
+    "Climatic Conditions": "Tropical to polar oceans; coastal and open seas",
+    "Use": "Apex predators maintaining marine balance; ecotourism; cultural symbolism; threatened by overfishing and fin trade"
+  },
+  "sheep": {
+    "Origin": "Domesticated from wild mouflon (Eurasia)",
+    "Climatic Conditions": "Adaptable — temperate, arid, and highland regions",
+    "Use": "Livestock — wool, meat, milk; cultural and agricultural significance; grazing management in ecosystems"
+  },
+  "snake": {
+    "Origin": "Worldwide (except Antarctica, Iceland, Ireland, and some islands)",
+    "Climatic Conditions": "Forests, deserts, grasslands, wetlands; tropical to temperate regions",
+    "Use": "Predators controlling rodents; venom for medical research; cultural symbolism; ecological importance"
+  },
+  "sparrow": {
+    "Origin": "Eurasia and Africa (now cosmopolitan)",
+    "Climatic Conditions": "Urban, agricultural, and forested regions; temperate to tropical climates",
+    "Use": "Seed and insect eater; urban ecological balance; cultural symbolism; research in adaptation and migration"
+  },
+  "squid": {
+    "Origin": "Oceans worldwide",
+    "Climatic Conditions": "Marine — from shallow coastal waters to deep oceans; tropical to polar regions",
+    "Use": "Marine cephalopod — food source; ink and biology research; ecological predator/prey role in marine food chains"
+  },
+  "squirrel": {
+    "Origin": "Worldwide (except Australia and Antarctica)",
+    "Climatic Conditions": "Forests, urban areas, and grasslands; temperate to tropical zones",
+    "Use": "Seed dispersers and tree regeneration; common urban wildlife; studied for behavior and ecology"
+  },
+  "starfish": {
+    "Origin": "Marine environments worldwide",
+    "Climatic Conditions": "Coastal and deep-sea habitats; tropical to polar oceans",
+    "Use": "Marine echinoderm — regulates coral and mollusk populations; studied in regeneration biology; indicator of ocean health"
+  },
+  "swan": {
+    "Origin": "Northern Hemisphere (Europe, Asia, North America, Australia for black swan)",
+    "Climatic Conditions": "Lakes, rivers, and wetlands; temperate to subarctic regions",
+    "Use": "Aquatic bird — cultural and aesthetic importance; contributes to wetland ecology; ecotourism and research"
+  },
+  "tiger": {
+    "Origin": "Asia (from India to Southeast Asia and Russia)",
+    "Climatic Conditions": "Tropical forests, mangroves, and temperate woodlands",
+    "Use": "Apex predator — controls herbivore populations; cultural and conservation icon; ecotourism; critically endangered"
+  },
+  "turkey": {
+    "Origin": "North America (domesticated from wild turkey in Mexico and the U.S.)",
+    "Climatic Conditions": "Temperate forests and grasslands; domesticated species thrive globally",
+    "Use": "Domesticated — meat and feathers; wild — game bird and ecological insect/pest controller; cultural and economic importance"
+  },
+  "turtle": {
+    "Origin": "Worldwide (oceans, freshwater, and terrestrial habitats)",
+    "Climatic Conditions": "Tropical and temperate coastal waters, rivers, and drylands",
+    "Use": "Ecosystem role in nutrient cycling; indicator species for aquatic health; some used in research and conservation programs"
+  },
+  "whale": {
+    "Origin": "Oceans worldwide",
+    "Climatic Conditions": "Marine — polar to tropical waters; species adapted to open ocean and coastal environments",
+    "Use": "Marine mammal — regulates ocean ecosystems; ecotourism; cultural significance; studied in conservation and marine biology"
+  },
+  "wolf": {
+    "Origin": "Northern Hemisphere (North America, Europe, Asia)",
+    "Climatic Conditions": "Forests, tundra, deserts, and mountains; temperate to subarctic regions",
+    "Use": "Wild predator — controls prey populations; cultural and ecological significance; focus of rewilding and conservation projects"
+  },
+  "wombat": {
+    "Origin": "Australia",
+    "Climatic Conditions": "Grasslands, forests, and shrublands; temperate to semi-arid climates",
+    "Use": "Burrowing marsupial — soil aeration and seed dispersal; ecological engineer; tourism and conservation interest"
+  },
+  "woodpecker": {
+    "Origin": "Worldwide (except Australia, Madagascar, and polar regions)",
+    "Climatic Conditions": "Forests, woodlands, and suburban areas; tropical to temperate",
+    "Use": "Insect control; ecosystem engineer (tree cavities for other species); indicator of forest health; cultural symbolism"
+  },
+  "zebra": {
+    "Origin": "Africa (Eastern and Southern regions)",
+    "Climatic Conditions": "Savannas, grasslands, and open woodlands; tropical and subtropical climates",
+    "Use": "Wild herbivore — maintains grassland ecosystems; ecotourism attraction; cultural symbolism and research in evolution"
+  }
+}
+
+

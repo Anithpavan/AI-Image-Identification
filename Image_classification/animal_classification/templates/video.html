@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Live Video Prediction</title>
+  <style>
+    body {
+      background: #f9f9f9;
+      text-align: center;
+      font-family: Arial, sans-serif;
+    }
+    h2 {
+      color: #333;
+      margin-top: 20px;
+    }
+    img {
+      margin-top: 20px;
+      border-radius: 10px;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    }
+  </style>
+</head>
+<body>
+  <h2>🎥 Live Species Recognition</h2>
+  <img src="{{ url_for('video_feed') }}" width="640" height="480">
+</body>
+</html>
